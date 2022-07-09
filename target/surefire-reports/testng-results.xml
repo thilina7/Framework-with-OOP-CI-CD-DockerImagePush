@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="158568" started-at="2022-07-09T20:40:37Z" finished-at="2022-07-09T20:43:16Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="158568" started-at="2022-07-09T20:40:37Z" finished-at="2022-07-09T20:43:16Z">
+      <class name="com.MyTests.LoginTest">
+        <test-method status="PASS" signature="beforeClass()" name="beforeClass" is-config="true" duration-ms="7" started-at="2022-07-09T20:40:37Z" finished-at="2022-07-09T20:40:37Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="15553" started-at="2022-07-09T20:40:37Z" finished-at="2022-07-09T20:40:53Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()" name="verifyLoginPageTitleTest" duration-ms="38" started-at="2022-07-09T20:40:53Z" finished-at="2022-07-09T20:40:53Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="642" started-at="2022-07-09T20:40:53Z" finished-at="2022-07-09T20:40:53Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="13124" started-at="2022-07-09T20:40:53Z" finished-at="2022-07-09T20:41:06Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyLoginHeaderTest()" name="verifyLoginHeaderTest" duration-ms="57" started-at="2022-07-09T20:41:06Z" finished-at="2022-07-09T20:41:06Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="642" started-at="2022-07-09T20:41:06Z" finished-at="2022-07-09T20:41:07Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="11928" started-at="2022-07-09T20:41:07Z" finished-at="2022-07-09T20:41:19Z">
+        </test-method>
+        <test-method status="PASS" signature="emptyUnamePasswordLoginTest()" name="emptyUnamePasswordLoginTest" duration-ms="229" started-at="2022-07-09T20:41:19Z" finished-at="2022-07-09T20:41:19Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="626" started-at="2022-07-09T20:41:19Z" finished-at="2022-07-09T20:41:20Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="13229" started-at="2022-07-09T20:41:20Z" finished-at="2022-07-09T20:41:33Z">
+        </test-method>
+        <test-method status="PASS" signature="emptyUnameCorrectPasswordLoginTest()" name="emptyUnameCorrectPasswordLoginTest" duration-ms="301" started-at="2022-07-09T20:41:33Z" finished-at="2022-07-09T20:41:33Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="603" started-at="2022-07-09T20:41:33Z" finished-at="2022-07-09T20:41:34Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="12515" started-at="2022-07-09T20:41:34Z" finished-at="2022-07-09T20:41:47Z">
+        </test-method>
+        <test-method status="PASS" signature="correctUnameEmptyPasswordLoginTest()" name="correctUnameEmptyPasswordLoginTest" duration-ms="255" started-at="2022-07-09T20:41:47Z" finished-at="2022-07-09T20:41:47Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="615" started-at="2022-07-09T20:41:47Z" finished-at="2022-07-09T20:41:47Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="12988" started-at="2022-07-09T20:41:47Z" finished-at="2022-07-09T20:42:00Z">
+        </test-method>
+        <test-method status="PASS" signature="incorrectUnameCorrectPasswordLoginTest()" name="incorrectUnameCorrectPasswordLoginTest" duration-ms="969" started-at="2022-07-09T20:42:00Z" finished-at="2022-07-09T20:42:01Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="831" started-at="2022-07-09T20:42:01Z" finished-at="2022-07-09T20:42:02Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="13495" started-at="2022-07-09T20:42:02Z" finished-at="2022-07-09T20:42:16Z">
+        </test-method>
+        <test-method status="PASS" signature="correctUnameIncorrectPasswordLoginTest()" name="correctUnameIncorrectPasswordLoginTest" duration-ms="3727" started-at="2022-07-09T20:42:16Z" finished-at="2022-07-09T20:42:19Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="621" started-at="2022-07-09T20:42:19Z" finished-at="2022-07-09T20:42:20Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="11701" started-at="2022-07-09T20:42:20Z" finished-at="2022-07-09T20:42:32Z">
+        </test-method>
+        <test-method status="PASS" signature="specialCharactersToEmailLoginTest()" name="specialCharactersToEmailLoginTest" duration-ms="875" started-at="2022-07-09T20:42:32Z" finished-at="2022-07-09T20:42:33Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="614" started-at="2022-07-09T20:42:33Z" finished-at="2022-07-09T20:42:33Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="10592" started-at="2022-07-09T20:42:33Z" finished-at="2022-07-09T20:42:44Z">
+        </test-method>
+        <test-method status="PASS" signature="doLoginTest()" name="doLoginTest" duration-ms="1786" started-at="2022-07-09T20:42:44Z" finished-at="2022-07-09T20:42:46Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="610" started-at="2022-07-09T20:42:46Z" finished-at="2022-07-09T20:42:46Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="10671" started-at="2022-07-09T20:42:46Z" finished-at="2022-07-09T20:42:57Z">
+        </test-method>
+        <test-method status="PASS" signature="doLoginWithEnterTest()" name="doLoginWithEnterTest" duration-ms="2024" started-at="2022-07-09T20:42:57Z" finished-at="2022-07-09T20:42:59Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="599" started-at="2022-07-09T20:42:59Z" finished-at="2022-07-09T20:43:00Z">
+        </test-method>
+        <test-method status="PASS" signature="setUpTest()" name="setUpTest" is-config="true" duration-ms="11177" started-at="2022-07-09T20:43:00Z" finished-at="2022-07-09T20:43:11Z">
+        </test-method>
+        <test-method status="PASS" signature="lockedUserLoginTest()" name="lockedUserLoginTest" duration-ms="4296" started-at="2022-07-09T20:43:11Z" finished-at="2022-07-09T20:43:15Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="614" started-at="2022-07-09T20:43:15Z" finished-at="2022-07-09T20:43:16Z">
+        </test-method>
+        <test-method status="PASS" signature="afterClass()" name="afterClass" is-config="true" duration-ms="0" started-at="2022-07-09T20:43:16Z" finished-at="2022-07-09T20:43:16Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
