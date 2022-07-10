@@ -1,4 +1,4 @@
-# Pipedrive_Task
+# Pipedrive_Task project installation guide
 
 ## Table of contents
 * [General info](#general-info)
