@@ -24,9 +24,9 @@ To run this project, Need to follow below instructions:
 4. Choose the installation folder and press the ‘INSTALL’ button.
 5. Lastly, click on the ‘LUNCH’ button.
 
-#### Step 2: Clone the github Pipedrive_Task project
+#### Step 2: Clone the github project
 1. Open “Git Bash” or cmd.
-2. Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone. (ex: git clone https://github.com/thilina7/Pipedrive_Task.git)
+2. Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone. (ex: git clone [https://github.com/thilina7/Pipedrive_Task.git](https://github.com/thilina7/Framework-with-OOP-CI-CD-DockerImagePush.git))
 
 #### Step 3: Setup the project in eclipse
 1. In Eclipse, select File > Import…
