@@ -26,7 +26,7 @@ To run this project, Need to follow below instructions:
 
 #### Step 2: Clone the github project
 1. Open “Git Bash” or cmd.
-2. Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone. (ex: git clone [https://github.com/thilina7/Pipedrive_Task.git](https://github.com/thilina7/Framework-with-OOP-CI-CD-DockerImagePush.git))
+2. Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone. (ex: git clone https://github.com/thilina7/Framework-with-OOP-CI-CD-DockerImagePush.git)
 
 #### Step 3: Setup the project in eclipse
 1. In Eclipse, select File > Import…
@@ -45,8 +45,8 @@ To run this project, Need to follow below instructions:
 
 Note: For the change to be effective, you will have to restart Eclipse and you will now be able to see TestNG installed by right-clicking on any project and seeing TestNG in the menu options.
 
-#### Step 5: Run the "Pipedrive_Task project"
-1. Double click on the TestNG.xml file on the left Pipedrive_Task project tree
+#### Step 5: Run the "Framework-with-OOP-CI-CD-DockerImagePush project"
+1. Double click on the TestNG.xml file on the left Framework-with-OOP-CI-CD-DockerImagePush project tree
 2. Right click on the file and navigate to Run As >> TestNG Test
 3. Then you will see project start running.
 4. Go to "Result of running suite" tab and check the TestNG report result once script finish running.
